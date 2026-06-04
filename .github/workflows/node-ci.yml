@@ -24,4 +24,4 @@ jobs:
         run: npm install
 
       - name: Check syntax
-        run: node --Check index.js
+        run: node --check index.js
